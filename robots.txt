@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://conveyor-plastic-vi.pages.dev/sitemap.xml
